@@ -17,7 +17,7 @@
   
 </div>
 <div align="center" class="badge">
-    <a align="center" href="" target="_blank">
+    <a align="center" href="https://yehonet.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" width="130" height="40"/>
     </a>
 </div>
