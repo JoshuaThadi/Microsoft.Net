@@ -18,6 +18,6 @@
 </div>
 <div align="center" class="badge">
     <a align="center" href="" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=font-awesome&logoColor=white&label=%F0%9F%8C%8E" alt=".NET Badge with Globe" width="150"       height="30"/>
+    <img src="https://img.shields.io/badge/Netlify-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" width="130" height="40"/>
     </a>
 </div>
