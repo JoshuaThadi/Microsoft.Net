@@ -1,6 +1,6 @@
 <div align="center">
   <div class="header">
-    <img src="" alt=".NET Icon" width=100%>
+    <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=100%>
     <h1>🌐 Yeho.Net</h1>
   </div>
 
