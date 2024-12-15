@@ -14,7 +14,7 @@
 
   <h2>🖥️ Technologies used</h2>
   <ul>
-<a align="center">Pending</a>
+<a align="center"><strong>Pending</strong></a>
     <li>⚙️ .NET Core for backend development</li>
     <li>📂 ASP.NET MVC for building dynamic, data-driven websites</li>
     <li>✅ Entity Framework for data management</li>
