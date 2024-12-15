@@ -1,7 +1,7 @@
 <div align="center">
   <div class="header">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon" width=350>
-    <h1>Data Science Notes</h1>
+    <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/Screenshot%202024-12-15%20190312.png" alt="Google Colab Icon" width=350>
+    <h1>Yeho.Net</h1>
   </div>
 <div class="badge">
     <a align="center" href="https://colab.research.google.com/" target="_blank">
