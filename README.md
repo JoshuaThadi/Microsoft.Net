@@ -1,14 +1,9 @@
 <div align="center">
   <div class="header">
     <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/Screenshot%202024-12-15%20190312.png" alt="Google Colab Icon" width=100%>
-    <h1>Yeho.Net</h1>
+    <h1>🌐 Yeho.Net</h1>
   </div>
-<div class="badge">
-    <a align="center" href="https://colab.research.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Colab-Open-orange?style=for-the-badge&logo=googlecolab" alt="Open in Google Colab">
-</a>
 
-  </div>
   <h4><p>📊 Data Science is an interdisciplinary field that uses methods, algorithms, and systems to extract knowledge and insights from data. 🚀 
     It combines aspects of <strong>statistics</strong>, <strong>computer science</strong>, and <strong>domain expertise</strong>.</p></h4>
     
@@ -33,3 +28,10 @@
 
   
 </div>
+<div class="badge">
+    <a align="center" href="" target="_blank">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=font-awesome&logoColor=white&label=%F0%9F%8C%8E" alt=".NET Badge with Globe" width="200" height="50"/>
+
+</a>
+
+  </div>
