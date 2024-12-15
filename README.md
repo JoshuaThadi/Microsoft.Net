@@ -4,6 +4,10 @@
     <h1>🔥Yeho.Net</h1>
   </div>
 
+<div align = "center" style="background-color: yellow; color: black; padding: 15px; text-align: center; font-size: 18px; border: 1px solid #ccc; border-radius: 5px;">
+  <strong>⚠️ Warning:</strong> This project is still pending. Stay tuned for updates!
+</div>
+
   <h4><p>🤝 Welcome to my .NET project! This application is built with the .NET framework, designed to provide a scalable, secure, and efficient solution for [insert specific purpose or functionality of your project, e.g., managing user accounts, tracking sales data, etc.]. 🚀</p></h4>
     
 
