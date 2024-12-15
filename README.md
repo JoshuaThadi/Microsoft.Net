@@ -2,7 +2,7 @@
   <div class="header">
     <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=200px>
     <h1>🔥Yeho.Net</h1>
-    ✨Yeho.Net is Sub-Company of <strong>💫Yeho.Arc</strong> related to Technology and innovation💖
+    ✨Yeho.Net is Sub-Company of <strong>💫Yeho.Arc</strong> related to Technology, Discovery and innovation💖
   </div>
 
 <div align = "center" style="background-color: yellow; color: black; padding: 15px; text-align: center; font-size: 18px; border: 1px solid #ccc; border-radius: 5px;">
