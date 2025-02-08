@@ -23,7 +23,7 @@
   
 </div>
 <div align="center" class="badge">
-    <a align="center" href="https://yehonet.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" width="130" height="40"/>
-    </a>
+   <a href=" href="https://yehonet.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Yeho.Net-%236E738D?style=for-the-badge&logo=github&logoColor=%237D6E99" alt="GitHub Badge">
+</a>
 </div>
