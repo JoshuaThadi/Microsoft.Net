@@ -25,4 +25,12 @@
    <a href="https://yehonet.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-Yeho.Net-%236E738D?style=for-the-badge&logo=github&logoColor=%237D6E99" alt="GitHub Badge">
    </a>
+
+
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+
+
 </div>
+
