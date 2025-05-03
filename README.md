@@ -1,7 +1,7 @@
 <div align="center">
   <div class="header">
     <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=200px>
-    <h1>🔥Yeho.Net</h1>
+    <h1>🔥Microsoft .Net</h1>
 
 
 <div align = "center" style="background-color: yellow; color: black; padding: 15px; text-align: center; font-size: 18px; border: 1px solid #ccc; border-radius: 5px;">
