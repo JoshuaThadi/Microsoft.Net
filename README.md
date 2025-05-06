@@ -1,6 +1,7 @@
 <div align="center">
   <div class="header">
-    <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=200px>
+    <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=80px>
+    <img src="https://cdn.pixabay.com/photo/2021/08/10/15/36/microsoft-6536268_1280.png" alt=".NET Icon" width=80px>
     <h1>🔥Microsoft .Net</h1>
 
 
