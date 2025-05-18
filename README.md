@@ -67,8 +67,7 @@
 
 <!-- 1. Web Apps -->
 <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Apps-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge">
-</a>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Apps-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge"></a>
 <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">
   <img src="https://img.shields.io/badge/Blazor-Web%20UI-81A1C1?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"></a>
 
