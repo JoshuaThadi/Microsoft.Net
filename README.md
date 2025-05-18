@@ -16,6 +16,44 @@
 7] <b>Entity Framework (EF)</b> - Core	An Object-Relational Mapper (ORM) for working with databases using .NET objects.<br>
 8] <b>MAUI (Multi-platform App UI)</b>	- Used for building cross-platform mobile and desktop apps with a single codebase.<br>
 9] <b>Blazor	</b> - Enables building interactive web UIs using C# instead of JavaScript.<br>
+
+<!-- 1. .NET SDK -->
+<a href="https://dotnet.microsoft.com/en-us/download" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20SDK-Development%20Kit-B48EAD?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET SDK Badge"></a>
+
+<!-- 2. CLR (Common Language Runtime) -->
+<a href="https://learn.microsoft.com/en-us/dotnet/standard/clr" target="_blank">
+  <img src="https://img.shields.io/badge/CLR-Virtual%20Machine-9D79A9?style=for-the-badge&logo=dotnet&logoColor=white" alt="CLR Badge"></a>
+
+<!-- 3. BCL (Base Class Library) -->
+<a href="https://learn.microsoft.com/en-us/dotnet/standard/class-library-overview" target="_blank">
+  <img src="https://img.shields.io/badge/BCL-Base%20Class%20Library-8F71A8?style=for-the-badge&logo=dotnet&logoColor=white" alt="BCL Badge"></a>
+
+<!-- 4. Languages -->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-Language-B48EAD?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/fsharp/" target="_blank">
+  <img src="https://img.shields.io/badge/F%23-Language-9D79A9?style=for-the-badge&logo=fsharp&logoColor=white" alt="F# Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual%20Basic-Language-7E5C9B?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VB Badge"></a>
+
+<!-- 5. ASP.NET Core -->
+<a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core" target="_blank">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Framework-B48EAD?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge"></a>
+
+<!-- 6. Entity Framework Core -->
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+  <img src="https://img.shields.io/badge/EF%20Core-ORM%20Tool-9D79A9?style=for-the-badge&logo=ef&logoColor=white" alt="EF Core Badge"></a>
+
+<!-- 7. .NET MAUI -->
+<a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-Cross%20Platform%20UI-8F71A8?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI Badge"></a>
+
+<!-- 8. Blazor -->
+<a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">
+  <img src="https://img.shields.io/badge/Blazor-Web%20UI%20with%20C%23-7E5C9B?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"></a>
+
+
     
 <h3>✬ Types of Applications You Can Build with .NET</h3>
  
@@ -26,6 +64,44 @@
 5] <b>IoT</b> -	.NET on Raspberry Pi and ARM devices <br>
 6] <b>Games</b> -	Unity with C# <br>
 7] <b>AI/ML</b> -	ML.NET <br>
+
+<!-- 1. Web Apps -->
+<a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Apps-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge">
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">
+  <img src="https://img.shields.io/badge/Blazor-Web%20UI-81A1C1?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"></a>
+
+<!-- 2. Desktop Apps -->
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
+  <img src="https://img.shields.io/badge/Windows%20Forms-Desktop%20Apps-88C0D0?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank">
+  <img src="https://img.shields.io/badge/WPF-Desktop%20UI-8FBCBB?style=for-the-badge&logo=microsoft&logoColor=white" alt="WPF Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-Cross%20Platform-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI Badge"></a>
+
+<!-- 3. Mobile Apps -->
+<a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-Mobile%20Apps-81A1C1?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI Mobile Badge"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
+  <img src="https://img.shields.io/badge/Xamarin-Cross%20Platform-88C0D0?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin Badge"></a>
+
+<!-- 4. Cloud -->
+<a href="https://azure.microsoft.com/en-us/solutions/dotnet/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-Cloud%20with%20.NET-8FBCBB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"></a>
+
+<!-- 5. IoT -->
+<a href="https://devblogs.microsoft.com/dotnet/net-core-and-iot/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20IoT-Raspberry%20Pi%20%26%20ARM-5E81AC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt=".NET IoT Badge"></a>
+
+<!-- 6. Games -->
+<a href="https://unity.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Unity-Game%20Development-81A1C1?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"></a>
+
+<!-- 7. AI/ML -->
+<a href="https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet" target="_blank">
+  <img src="https://img.shields.io/badge/ML.NET-AI%20%26%20ML-88C0D0?style=for-the-badge&logo=ml-dotnet&logoColor=white" alt="ML.NET Badge"></a>
+
     
 <h3>✬ Key Benefits of .NET</h3>
 ✅ Cross-platform: Build and run apps on Windows, macOS, and Linux.<br>
@@ -38,6 +114,19 @@
 1] <b>.NET SDK & CLI</b> – Essential for building, running, and publishing .NET applications. Includes tools like dotnet build, dotnet run, and dotnet publish. <br>
 2] <b>MSBuild</b> – Microsoft's build engine for compiling code, packaging, and deploying applications. <br>
 3] <b>Visual Studio</b> – The primary IDE for .NET development, offering robust features for coding, debugging, and deployment. <br>
+
+<!-- 1. .NET SDK & CLI -->
+<a href="https://learn.microsoft.com/en-us/dotnet/core/tools/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20SDK%20%26%20CLI-Development%20Tools-7B68EE?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET SDK CLI Badge"></a>
+
+<!-- 2. MSBuild -->
+<a href="https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022" target="_blank">
+  <img src="https://img.shields.io/badge/MSBuild-Build%20Engine-5A4FCF?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSBuild Badge"></a>
+
+<!-- 3. Visual Studio -->
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE%20for%20.NET-6A5ACD?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge"></a>
+
 
 <h3>✬ .NET Framework Components</h3>
 
@@ -53,6 +142,31 @@
 4] <b>Windows Communication Foundation (WCF)</b> – Framework for building service-oriented applications. <br>
 5] <b>ML.NET</b> – Machine learning framework for .NET developers. <br>
 6] <b>ADO.NET</b> – Data access technology for interacting with databases. <br>
+
+<!-- 1. ASP.NET Core -->
+<a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Framework-BF616A?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge"></a>
+
+<!-- 2. Entity Framework (EF) -->
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+  <img src="https://img.shields.io/badge/Entity%20Framework-ORM%20for%20.NET-D9777F?style=for-the-badge&logo=ef&logoColor=white" alt="EF Badge"></a>
+
+<!-- 3. Windows Presentation Foundation (WPF) -->
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank">
+  <img src="https://img.shields.io/badge/WPF-Desktop%20UI-CF5D6D?style=for-the-badge&logo=windows&logoColor=white" alt="WPF Badge"></a>
+
+<!-- 4. Windows Communication Foundation (WCF) -->
+<a href="https://learn.microsoft.com/en-us/dotnet/framework/wcf/" target="_blank">
+  <img src="https://img.shields.io/badge/WCF-Service%20Framework-BA4E5D?style=for-the-badge&logo=microsoft&logoColor=white" alt="WCF Badge"></a>
+
+<!-- 5. ML.NET -->
+<a href="https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet" target="_blank">
+  <img src="https://img.shields.io/badge/ML.NET-Machine%20Learning-A84C5F?style=for-the-badge&logo=ml-dotnet&logoColor=white" alt="ML.NET Badge"></a>
+
+<!-- 6. ADO.NET -->
+<a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank">
+  <img src="https://img.shields.io/badge/ADO.NET-Data%20Access-BF616A?style=for-the-badge&logo=databricks&logoColor=white" alt="ADO.NET Badge"></a>
+
 
 <h3>✬ Testing & Quality Assurance Tools</h3>
 
