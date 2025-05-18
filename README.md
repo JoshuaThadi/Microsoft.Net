@@ -133,6 +133,8 @@
 2] <b>Base Class Library (BCL)</b> – Provides fundamental classes for collections, file I/O, data types, and more. <br>
 3] <b>Assemblies</b> – Compiled code libraries used for deployment, versioning, and security. <br>
 
+
+
 <h3>✬ Key .NET Modules & Libraries</h3>
 
 1] <b>ASP.NET Core</b> – Framework for building web applications and APIs. <br>
@@ -173,11 +175,26 @@
 2] <b>NDepend</b> – Static analysis tool for measuring code quality and dependencies. <br>
 3] <b>dotnet test</b> – Command-line tool for running tests in .NET projects. <br>
 
+<a href="https://xunit.net/" target="_blank">
+  <img src="https://img.shields.io/badge/xUnit.net-Unit%20Testing-8FBC8F?style=for-the-badge&logo=x&logoColor=white" alt="xUnit Badge"></a>
+<a href="https://www.ndepend.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NDepend-Code%20Analysis-7FAF7F?style=for-the-badge&logo=ndepend&logoColor=white" alt="NDepend Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test" target="_blank">
+  <img src="https://img.shields.io/badge/dotnet%20test-CLI%20Testing-6B9D6B?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet test Badge"></a>
+
 <h3>✬ Security Features</h3>
 
 1] <b>Authentication & Authorization</b> – Implementing secure user access and permissions. <br>
 2] <b>Data Protection</b> – Safeguarding sensitive data within applications. <br>
 3] <b>HTTPS Enforcement</b> – Ensuring secure communication over the web. <br>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/" target="_blank">
+  <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-Secure%20Access-81A1C1?style=for-the-badge&logo=lock&logoColor=white" alt="Authentication Badge"></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/security/data-protection/" target="_blank">
+  <img src="https://img.shields.io/badge/Data%20Protection-Encryption%20%26%20Privacy-5E81AC?style=for-the-badge&logo=security&logoColor=white" alt="Data Protection Badge"></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl" target="_blank">
+  <img src="https://img.shields.io/badge/HTTPS%20Enforcement-TLS%20Security-4C708F?style=for-the-badge&logo=ssl&logoColor=white" alt="HTTPS Badge"></a>
+
 
 <h3>✬ Advanced Topics</h3>
 
@@ -185,10 +202,26 @@
 2] <b>Dependency Injection (DI)</b> – Design pattern for achieving Inversion of Control. <br>
 3] <b>Microservices Architecture</b> – Building applications as a collection of small services. <br>
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">
+  <img src="https://img.shields.io/badge/LINQ-Type%20Safe%20Queries-9370DB?style=for-the-badge&logo=csharp&logoColor=white" alt="LINQ Badge"></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection" target="_blank">
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Design%20Pattern-7D5BA6?style=for-the-badge&logo=structure&logoColor=white" alt="DI Badge"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/architecture/microservices/" target="_blank">
+  <img src="https://img.shields.io/badge/Microservices%20Architecture-Distributed%20Apps-6F42C1?style=for-the-badge&logo=microgen&logoColor=white" alt="Microservices Badge"></a>
+
+
 <h3>✬ Additional Tools</h3>
 
 1] <b>dotnet tool list</b> – Command to list installed .NET tools. <br>
 2] <b>Third-Party Tools</b> – Explore tools like ReSharper, PostSharp, and others for enhanced development experience. <br>
+
+<!-- 1. dotnet tool list -->
+<a href="https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-list" target="_blank">
+  <img src="https://img.shields.io/badge/dotnet%20tool%20list-Global%20Tools%20Info-BF4D5D?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet tool list Badge"></a>
+
+<!-- 2. Third-Party Tools -->
+<a href="https://www.jetbrains.com/resharper/" target="_blank">
+  <img src="https://img.shields.io/badge/Third--Party%20Tools-ReSharper%2C%20PostSharp%2C%20etc-AC3B4D?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Third Party Tools Badge"></a>
 
     
     
