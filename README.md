@@ -2,11 +2,18 @@
   <div align="center" class="header">
     <img src="https://cdn.pixabay.com/photo/2021/08/10/15/36/microsoft-6536268_1280.png" alt=".NET Icon" width=130px>
     <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=130px>
-    <h1>🔥Microsoft .Net</h1>
+    <h1>
+      🔥Microsoft .Net 
+      
+      
+  [![ASP.NET Core Roadmap](https://img.shields.io/badge/ASP.NET%20Core%20Roadmap-grey?style=for-the-badge&logo=dotnet&logoColor=white)](https://roadmap.sh/aspnet-core)
+    
+</h1>    
+    
+
   </div> 
 <h4>.NET is a free, open-source, cross-platform developer platform created by Microsoft for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build</h4>
 
-[![ASP.NET Core Roadmap](https://img.shields.io/badge/ASP.NET%20Core%20Roadmap-grey?style=for-the-badge&logo=dotnet&logoColor=white)](https://roadmap.sh/aspnet-core)
 
 
 <h3>✬ Core Components of .NET</h3>
@@ -70,13 +77,19 @@
 6] <b>Games</b> -	Unity with C# <br>
 7] <b>AI/ML</b> -	ML.NET <br>
 
+ <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">
+  <img src="https://img.shields.io/badge/Blazor-Web%20UI-81A1C1?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"></a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank">
+  <img src="https://img.shields.io/badge/WPF-Desktop%20UI-8FBCBB?style=for-the-badge&logo=microsoft&logoColor=white" alt="WPF Badge"></a>
+
 <!-- 5. IoT -->
 <a href="https://devblogs.microsoft.com/dotnet/net-core-and-iot/" target="_blank">
   <img src="https://img.shields.io/badge/.NET%20IoT-Raspberry%20Pi%20%26%20ARM-5E81AC?style=for-the-badge&logo=raspberrypi&logoColor=white" alt=".NET IoT Badge"></a>
 
-  <!-- 3. Mobile Apps -->
-<a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
-  <img src="https://img.shields.io/badge/.NET%20MAUI-Mobile%20Apps-81A1C1?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI Mobile Badge"></a>
+  <!-- 2. Desktop Apps -->
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
+  <img src="https://img.shields.io/badge/Windows%20Forms-Desktop%20Apps-88C0D0?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms Badge"></a>
 
   <a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
   <img src="https://img.shields.io/badge/.NET%20MAUI-Cross%20Platform-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI Badge"></a>
@@ -90,22 +103,18 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20Apps-5E81AC?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core Badge"></a>
 
 
-<!-- 2. Desktop Apps -->
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank">
-  <img src="https://img.shields.io/badge/Windows%20Forms-Desktop%20Apps-88C0D0?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms Badge"></a>
 
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
   <img src="https://img.shields.io/badge/Xamarin-Cross%20Platform-88C0D0?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin Badge"></a>
+
+   <!-- 3. Mobile Apps -->
+<a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-Mobile%20Apps-81A1C1?style=for-the-badge&logo=dotnet&logoColor=white" alt="MAUI Mobile Badge"></a>
 
 <!-- 4. Cloud -->
 <a href="https://azure.microsoft.com/en-us/solutions/dotnet/" target="_blank">
   <img src="https://img.shields.io/badge/Azure-Cloud%20with%20.NET-8FBCBB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"></a>
 
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank">
-  <img src="https://img.shields.io/badge/Blazor-Web%20UI-81A1C1?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"></a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank">
-  <img src="https://img.shields.io/badge/WPF-Desktop%20UI-8FBCBB?style=for-the-badge&logo=microsoft&logoColor=white" alt="WPF Badge"></a>
 
 <!-- 7. AI/ML -->
 <a href="https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet" target="_blank">
