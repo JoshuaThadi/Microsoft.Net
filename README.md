@@ -12,7 +12,11 @@
     
 
   </div> 
-<h4>.NET is a free, open-source, cross-platform developer platform created by Microsoft for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build</h4>
+<h4>
+  
+>.NET is a free, open-source, cross-platform developer platform created by Microsoft for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build.
+
+</h4>
 
 
 
