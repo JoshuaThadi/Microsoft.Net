@@ -269,7 +269,7 @@
 >- .NET Core for backend development  
 >- ASP.NET MVC for building dynamic and data-driven web applications  
 >- Entity Framework for object-relational mapping and database management  
->- SQL Server or an alternative RDBMS for backend storage  
+>- SQL Server or an alternative RDBMS for backend storage  <br><br>
 >[![GitHub Badge](https://img.shields.io/badge/GitHub-Yeho.Net-%236E738D?style=for-the-badge&logo=github&logoColor=%237D6E99)](https://yehonet.netlify.app/)
 
 
