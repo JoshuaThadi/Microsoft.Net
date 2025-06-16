@@ -8,10 +8,9 @@
       
   [![ASP.NET Core Roadmap](https://img.shields.io/badge/ASP.NET%20Core%20Roadmap-grey?style=for-the-badge&logo=dotnet&logoColor=white)](https://roadmap.sh/aspnet-core)
     
-</h1>    
-    
-
+</h1>   
   </div> 
+  
 <h4>
   
 >.NET is a free, open-source, cross-platform developer platform created by Microsoft for building many different types of applications. With .NET, you can use multiple languages, editors, and libraries to build.
@@ -19,6 +18,31 @@
 </h4>
 
 
+
+<h2 align="left">✪ Microsoft .NET Project</h2>
+
+<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/yeho.net.png">
+
+
+>[!IMPORTANT]
+>### Welcome to my .NET Project
+>This application is developed using the .NET framework and is designed to offer a scalable, secure, and high-performance solution for managing user accounts, handling data workflows, or other enterprise functionalities.
+><b>Notice:</b> This project is currently in development. Updates will be provided soon.
+>### Technologies Used
+>- .NET Core for backend development  
+>- ASP.NET MVC for building dynamic and data-driven web applications  
+>- Entity Framework for object-relational mapping and database management  
+>- SQL Server or an alternative RDBMS for backend storage  <br><br>
+>[![GitHub Badge](https://img.shields.io/badge/GitHub-Yeho.Net-%236E738D?style=for-the-badge&logo=github&logoColor=%237D6E99)](https://yehonet.netlify.app/)
+
+
+
+---
+
+<br>
+
+
+<h2>☆ Microsoft .Net Resources</h2>
 
 <h3>✬ Core Components of .NET</h3>
 
@@ -251,30 +275,9 @@
   <img src="https://img.shields.io/badge/dotnet%20tool%20list-Global%20Tools%20Info-BF4D5D?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet tool list Badge"></a>
 
     
-    
-    
-    
+        
 ---
 
-<h3 align="center">✪ Microsoft .NET Project</h3>
-
-<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/yeho.net.png">
-
-
->[!IMPORTANT]
->### Welcome to my .NET Project
->This application is developed using the .NET framework and is designed to offer a scalable, secure, and high-performance solution for managing user accounts, handling data workflows, or other enterprise functionalities.
-><b>Notice:</b> This project is currently in development. Updates will be provided soon.
->### Technologies Used
->- .NET Core for backend development  
->- ASP.NET MVC for building dynamic and data-driven web applications  
->- Entity Framework for object-relational mapping and database management  
->- SQL Server or an alternative RDBMS for backend storage  <br><br>
->[![GitHub Badge](https://img.shields.io/badge/GitHub-Yeho.Net-%236E738D?style=for-the-badge&logo=github&logoColor=%237D6E99)](https://yehonet.netlify.app/)
-
-
-
----
 
 <div align="center">
 ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
