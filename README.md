@@ -1,7 +1,7 @@
 
   <div align="center" class="header">
     <img src="https://cdn.pixabay.com/photo/2021/08/10/15/36/microsoft-6536268_1280.png" alt=".NET Icon" width=130px>
-    <img src="https://github.com/JoshuaThadi/Yeho.Net/blob/main/net.png" alt=".NET Icon" width=130px>
+    <img src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/assests/net.png" alt=".NET Icon" width=130px>
     <h1>
       🔥Microsoft .Net 
       
@@ -21,7 +21,7 @@
 
 <h2 align="left">✪ Microsoft .NET Project</h2>
 
-<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/yeho.net.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/assests/yeho.net.png">
 
 
 >[!IMPORTANT]
